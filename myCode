@@ -1,0 +1,7 @@
+// Este es un ejemplo para el repositorio
+
+FUNCION getUser(id:entero):string
+    code Line 1
+    code Line 2
+    code Line 3
+FIN FUNCION
